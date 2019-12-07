@@ -1,1 +1,14 @@
 Find the first circular tour that visits all petrol pumps
+
+Input:
+1. Number of nodes: n = 4 (A, B, C, D)
+2. The amount of petrol that every petrol pump has: [4, 6, 7, 4]
+3. Distance from that petrol pump to next next petrol pump: [6, 5, 3, 5]
+
+Output: B-C-D-A-B
+
+Extension: Number of circular tours that visit all petrol pumps
+
+Links for solution: 
+https://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/
+https://www.geeksforgeeks.org/number-of-circular-tours-that-visit-all-petrol-pumps/
